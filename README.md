@@ -8,7 +8,7 @@
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://port-folio-eight-beige.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=ko-fi&logoColor=white)]([https://your-portfolio-link.com](https://port-folio-eight-beige.vercel.app/))
 
 ## Languages and Tools:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
